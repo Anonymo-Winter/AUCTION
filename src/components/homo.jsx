@@ -1,7 +1,7 @@
 import React from "react";
 
 function homo() {
-    return <div>homo</div>;
+    return <div>Venkata Ramana</div>;
 }
 
 export default homo;
